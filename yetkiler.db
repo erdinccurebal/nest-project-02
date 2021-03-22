@@ -1,0 +1,8 @@
+Admin
+["userFindAll","userFindOne","userCreate","userUpdate","userDelete","roleFindAll","roleFindOne","roleCreate","roleUpdate","roleDelete","postFindAll","postFindOne","postCreate","postUpdate","postDelete","navFindAll","navFindOne","navCreate","navUpdate","navDelete","categoryFindAll","categoryFindOne","categoryCreate","categoryUpdate","categoryDelete","commentFindAll","commentFindOne","commentCreate","commentUpdate","commentDelete"]
+Moderator
+["userFindAll","userFindOne","postFindAll","postFindOne","postCreate","postUpdate","postDelete","commentFindAll","commentFindOne","commentCreate","commentUpdate","commentDelete"]
+Author
+["postFindAll","postFindOne","postCreate","postUpdate","postDelete","commentCreate"]
+Member
+["commentCreate"]
